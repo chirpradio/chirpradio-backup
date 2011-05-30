@@ -1,0 +1,3 @@
+svn+http://s3tools.svn.sourceforge.net/svnroot/s3tools/s3cmd/trunk/#egg=S3
+Nose
+fudge
